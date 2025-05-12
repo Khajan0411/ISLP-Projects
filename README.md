@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a37d9532-7e7a-47ac-b770-d5fe44bc7469)
+
 # 📘 ISLP: Labs and Concepts  
 ### *An Introduction to Statistical Learning with Applications in Python*
 
